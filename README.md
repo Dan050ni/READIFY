@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">This website was created by Daniel Muñoz, Brandon Yesid, and Daniel Bernal.</p>
+<p align="left">This website was created by Daniel Muñoz, Jose Daniel, Brandon Yesid, and Daniel Bernal.</p>
 
 ###
 
